@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/MyRest/MyRest/bin
+/MyRest/MyRest/obj/Debug
+/MyRest/packages
+/MyRest/MyRest/MyRest.csproj.user
+/MyRest/.vs/MyRest
